@@ -6,7 +6,8 @@ For cloning the repository, you have to install first git lfs on your PC from he
 
 Then install it (open Git Bash and type):
 git lfs install
-git clone https://github.com/Sergiu2404/SurvivalGame.git
+
+Then: git clone https://github.com/Sergiu2404/SurvivalGame.git
 
 
 Go inside the cloned repo folder, open Git Bash and type:
